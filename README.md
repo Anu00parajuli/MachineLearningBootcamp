@@ -1,6 +1,6 @@
 # MachineLearningBootcamp
 
-# Day 1
+## Day 1
 In the first day, we learned about the Linear Regression
 
 # Day 2
